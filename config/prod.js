@@ -1,7 +1,0 @@
-const r = {
-
-};
-
-export {
-  r
-};
