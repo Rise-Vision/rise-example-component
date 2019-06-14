@@ -91,4 +91,4 @@ If you are looking for help with Rise Vision, please see [Help Center](https://h
 
 **Facilitator**
 
-[Stuart Lees](https://github.com/stulees "Stuart Lees")
+[Rise Vision](https://github.com/rise-vision "Rise Vision")

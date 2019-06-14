@@ -1,4 +1,5 @@
-import {PolymerElement, html} from "@polymer/polymer";
+import { PolymerElement, html } from "@polymer/polymer";
+import { rConfig } from "./rise-example-component-config.js";
 
 export default class RiseExampleComponent extends PolymerElement {
 
@@ -25,6 +26,9 @@ export default class RiseExampleComponent extends PolymerElement {
 
   ready() {
     super.ready();
+
+    // eslint-disable-next-line no-console
+    console.log("newComponentName config", rConfig);
 
     if (RisePlayerConfiguration.isConfigured()) {
       this._init();
