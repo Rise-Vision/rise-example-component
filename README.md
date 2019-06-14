@@ -7,7 +7,7 @@
 #### Example
 
 ```
-  <rise-example-component id="rise-example-component-id">
+  <rise-example-component id="rise-example-component-id" value="rise-example-component-value">
   </rise-example-component>
 ```
 
